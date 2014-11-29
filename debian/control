@@ -1,0 +1,12 @@
+Source: ros-indigo-icart-mini-driver
+Section: misc
+Priority: extra
+Maintainer: Daiki Maekawa <method_aspect_card@yahoo.co.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-controller-manager, ros-indigo-hardware-interface, ros-indigo-joy, ros-indigo-roscpp, ros-indigo-teleop-twist-joy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-icart-mini-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-controller-manager, ros-indigo-hardware-interface, ros-indigo-hokuyo-node, ros-indigo-joy, ros-indigo-roscpp, ros-indigo-teleop-twist-joy
+Description: The icart_mini_driver package
