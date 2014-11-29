@@ -50,8 +50,10 @@ Versions of tools used:
 
 icart_mini_core-release
 =======================
-| combine_dr_measurements |  |
+
+| Package | Build  |
 | --- | --- |
+| combine_dr_measurements | |
 | icart_mini_contol | |
 | icart_mini_description | [![Build Status](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/)  |
 | icart_mini_driver | |
