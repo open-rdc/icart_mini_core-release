@@ -51,4 +51,7 @@ Versions of tools used:
 icart_mini_core-release
 =======================
 
-[![Build Status](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/)
+| icart_mini_description | [![Build Status](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/)  |
+| --- | --- |
+
+
