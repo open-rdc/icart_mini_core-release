@@ -1,0 +1,12 @@
+Source: ros-indigo-icart-mini-control
+Section: misc
+Priority: extra
+Maintainer: Daiki Maekawa <method_aspect_card@yahoo.co.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-controller-interface, ros-indigo-diff-drive-controller
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-icart-mini-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-controller-interface, ros-indigo-controller-manager, ros-indigo-diff-drive-controller, ros-indigo-joint-state-controller
+Description: The icart_mini_control package
