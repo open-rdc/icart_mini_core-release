@@ -47,15 +47,3 @@ Versions of tools used:
 - rosdistro version: `0.3.6`
 - vcstools version: `0.1.35`
 
-
-icart_mini_core-release
-=======================
-
-| Package | Build  |
-| --- | --- |
-| combine_dr_measurements | [![Build Status](http://jenkins.ros.org/job/ros-indigo-combine-dr-measurements_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-combine-dr-measurements_sourcedeb/) |
-| icart_mini_contol | [![Build Status](http://jenkins.ros.org/job/ros-indigo-icart-mini-control_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-icart-mini-control_sourcedeb/) |
-| icart_mini_description | [![Build Status](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-icart-mini-description_sourcedeb/)  |
-| icart_mini_driver | [![Build Status](http://jenkins.ros.org/job/ros-indigo-icart-mini-driver_sourcedeb/badge/icon)](http://jenkins.ros.org/job/ros-indigo-icart-mini-driver_sourcedeb/) |
-
-
